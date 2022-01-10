@@ -9,6 +9,7 @@ The assigned sections are labeled in the code with single line comments and appe
 The required content was based off of materials and formulas we studied in class.
 The biggest skill I took away from this project was the ability to have an entire code base given to me and learn how it actually works.
 In order to write the code for this project it was imperative to understand how the classes and methods worked within.
+Written entirely in JAVA.
 
 SECTIONS WHERE ADJUSTMENTS WERE NECESSARY:
 
